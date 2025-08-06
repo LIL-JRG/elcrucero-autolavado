@@ -12,7 +12,7 @@ export const services: Service[] = [
   {
     id: 'auto-diamante',
     name: 'Paquete Diamante',
-    price: 'Consultar precio',
+    price: '',
     description: 'Nuestro servicio más completo y premium para tu automóvil',
     features: [
       'Tratamiento de sanitización y desinfección con ozono',
@@ -30,7 +30,7 @@ export const services: Service[] = [
   {
     id: 'auto-oro',
     name: 'Paquete Oro',
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio premium con encerado en pasta',
     features: [
       'Lavado de carrocería y tolvas',
@@ -45,7 +45,7 @@ export const services: Service[] = [
   {
     id: 'auto-bronce',
     name: 'Paquete Bronce',
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio básico pero completo para mantener tu automóvil limpio',
     features: [
       'Lavado de carrocería y tolvas',
@@ -60,7 +60,7 @@ export const services: Service[] = [
   {
     id: 'auto-plata',
     name: 'Paquete Plata',
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio intermedio con lavado de motor incluido',
     features: [
       'Lavado de carrocería y tolvas',
@@ -76,7 +76,7 @@ export const services: Service[] = [
   {
     id: 'auto-sanitizacion',
     name: 'Tratamiento de Sanitización',
-    price: 'Consultar precio',
+    price: '',
     description: 'Elimina virus, hongos, bacterias y malos olores',
     features: [
       'Sanitización y desinfección con ozono',
@@ -89,7 +89,7 @@ export const services: Service[] = [
   {
     id: 'auto-pulido',
     name: 'Servicio de Pulido/Encerado',
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio especializado de pulido y encerado',
     features: [
       'Lavado de carrocería',
@@ -105,7 +105,7 @@ export const services: Service[] = [
   {
     id: 'auto-completo',
     name: 'Servicio Completo',
-    price: 'Consultar precio',
+    price: '',
     description: 'El servicio más completo disponible',
     features: [
       'Lavado de asientos',
@@ -126,7 +126,7 @@ export const services: Service[] = [
   {
     id: 'camioneta-diamante',
     name: 'Paquete Diamante',
-    price: 'Consultar precio',
+    price: '',
     description: 'Nuestro servicio más completo y premium para tu camioneta',
     features: [
       'Tratamiento de sanitización y desinfección con ozono',
@@ -144,7 +144,7 @@ export const services: Service[] = [
   {
     id: 'camioneta-bronce',
     name: 'Paquete Bronce',
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio básico pero completo para mantener tu camioneta limpia',
     features: [
       'Lavado de carrocería y tolvas',
@@ -160,7 +160,7 @@ export const services: Service[] = [
     id: 'camioneta-plata',
     name: 'Paquete Plata',
 /*     price: 'Chico: $290 | Mediano: $310 | Grande: $320 | Extra: $430', */
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio intermedio con lavado de motor incluido',
     features: [
       'Lavado de carrocería y tolvas',
@@ -176,7 +176,7 @@ export const services: Service[] = [
   {
     id: 'camioneta-oro',
     name: 'Paquete Oro',
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio premium con encerado en pasta',
     features: [
       'Lavado de carrocería y tolvas',
@@ -191,7 +191,7 @@ export const services: Service[] = [
   {
     id: 'camioneta-sanitizacion',
     name: 'Tratamiento de Sanitización',
-    price: 'Consultar precio',
+    price: '',
     description: 'Elimina virus, hongos, bacterias y malos olores',
     features: [
       'Sanitización y desinfección con ozono',
@@ -204,7 +204,7 @@ export const services: Service[] = [
   {
     id: 'camioneta-pulido',
     name: 'Servicio de Pulido/Encerado',
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio especializado de pulido y encerado',
     features: [
       'Lavado de carrocería',
@@ -221,7 +221,7 @@ export const services: Service[] = [
     id: 'camioneta-completo',
     name: 'Servicio Completo',
     /* price: 'Según vehículo', */
-    price: 'Consultar precio',
+    price: '',
     description: 'El servicio más completo disponible',
     features: [
       'Lavado de asientos',
@@ -242,7 +242,7 @@ export const services: Service[] = [
   {
     id: 'moto-basico',
     name: 'Lavado Básico',
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio básico para mantener tu motocicleta en perfecto estado',
     features: [
       'Lavado de carrocería y tolvas',
@@ -255,7 +255,7 @@ export const services: Service[] = [
   {
     id: 'moto-premium',
     name: 'Lavado Premium',
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio completo con pulido y descontaminado',
     features: [
       'Lavado de carrocería y tolvas',
@@ -272,7 +272,7 @@ export const services: Service[] = [
   {
     id: 'mototaxi-basico',
     name: 'Lavado Básico',
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio básico para mantener tu mototaxi limpia y presentable',
     features: [
       'Lavado de carrocería y tolvas',
@@ -286,7 +286,7 @@ export const services: Service[] = [
   {
     id: 'mototaxi-premium',
     name: 'Lavado Premium',
-    price: 'Consultar precio',
+    price: '',
     description: 'Servicio completo con pulido y descontaminado',
     features: [
       'Lavado de carrocería y tolvas',

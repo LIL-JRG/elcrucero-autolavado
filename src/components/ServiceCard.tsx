@@ -27,7 +27,7 @@ export const ServiceCard = ({ service, onSelect }: ServiceCardProps) => {
         </div>
         
         <div className="mb-3 sm:mb-4">
-          <p className="text-xl sm:text-2xl font-bold bg-[var(--gradient-primary)] bg-clip-text text-transparent">
+          <p className="text-sm sm:text-base font-semibold bg-[var(--gradient-primary)] bg-clip-text">
             {service.price}
           </p>
         </div>

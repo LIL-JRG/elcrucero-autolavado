@@ -41,7 +41,8 @@ export const ServiceModal = ({ service, isOpen, onClose }: ServiceModalProps) =>
       `\n• Nombre: ${name}`,
       `\n• Vehículo: ${vehicle}`,
       `\n• Servicio: ${service.name}`,
-      `\n• Precio: ${service.price}`,
+/*       `\n• Precio: ${service.price}`, */
+      `\n• Precio: *Por definir*`,
       '\n\n*Incluye:*',
       `\n${featuresList}`,
       '\n\n¿Podrían ayudarme a agendar una cita?'
@@ -67,7 +68,7 @@ export const ServiceModal = ({ service, isOpen, onClose }: ServiceModalProps) =>
         
         <div className="space-y-4 sm:space-y-6">
           <div className="bg-muted/50 rounded-lg p-3 sm:p-4 border border-border/30">
-            <p className="text-lg sm:text-xl font-semibold text-primary mb-2">{service.price}</p>
+            {/* <p className="text-lg sm:text-xl font-semibold text-primary mb-2">{service.price}</p> */}
             <p className="text-muted-foreground text-sm sm:text-base">{service.description}</p>
           </div>
           
