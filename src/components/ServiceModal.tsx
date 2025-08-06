@@ -49,7 +49,7 @@ export const ServiceModal = ({ service, isOpen, onClose }: ServiceModalProps) =>
     
     // Join the message and encode it
     const message = messageParts.join('');
-    const whatsappUrl = `https://api.whatsapp.com/send?phone=529711135744&text=${encodeURIComponent(message)}`;
+    const whatsappUrl = `https://api.whatsapp.com/send?phone=529711138346&text=${encodeURIComponent(message)}`;
     window.open(whatsappUrl, '_blank');
     onClose();
   };
