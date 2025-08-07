@@ -1,6 +1,6 @@
-# Autolavado El Crucero
+# Spa Automotriz El Crucero
 
-Sitio web moderno para Autolavado El Crucero, mostrando servicios de lavado profesional para diferentes tipos de vehículos.
+Sitio web moderno para Spa Automotriz El Crucero, mostrando servicios de lavado profesional para diferentes tipos de vehículos.
 
 ## 🚗 Características
 
@@ -60,4 +60,4 @@ src/
 
 ## 📝 Licencia
 
-Este proyecto es de uso exclusivo de Autolavado El Crucero.
+Este proyecto es de uso exclusivo de Spa Automotriz El Crucero.

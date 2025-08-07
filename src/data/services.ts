@@ -104,7 +104,7 @@ export const services: Service[] = [
   },
   {
     id: 'auto-completo',
-    name: 'Servicio Completo',
+    name: 'Servicio de Interiores',
     price: '',
     description: 'El servicio más completo disponible',
     features: [
@@ -219,7 +219,7 @@ export const services: Service[] = [
   },
   {
     id: 'camioneta-completo',
-    name: 'Servicio Completo',
+    name: 'Servicio de Interiores',
     /* price: 'Según vehículo', */
     price: '',
     description: 'El servicio más completo disponible',
@@ -256,7 +256,7 @@ export const services: Service[] = [
     id: 'moto-premium',
     name: 'Lavado Premium',
     price: '',
-    description: 'Servicio completo con pulido y descontaminado',
+    description: 'Servicio de interiores con pulido y descontaminado',
     features: [
       'Lavado de carrocería y tolvas',
       'Hidratación de plásticos',
@@ -287,7 +287,7 @@ export const services: Service[] = [
     id: 'mototaxi-premium',
     name: 'Lavado Premium',
     price: '',
-    description: 'Servicio completo con pulido y descontaminado',
+    description: 'Servicio de interiores con pulido y descontaminado',
     features: [
       'Lavado de carrocería y tolvas',
       'Aspirado de áreas internas',

@@ -110,7 +110,7 @@ const Index = () => {
               className="text-3xl sm:text-4xl md:text-6xl lg:text-7xl font-bold mb-4 text-white drop-shadow-lg leading-tight"
               variants={item}
             >
-              Autolavado <span className="text-primary">El Crucero</span>
+              Spa Automotriz <span className="text-primary"> <br/>El Crucero</span>
             </motion.h1>
             <motion.p 
               className="text-lg sm:text-xl md:text-2xl text-gray-200 mb-6"
